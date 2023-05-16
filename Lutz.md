@@ -1,3 +1,3 @@
 # Thiago Lütz Dias
 Software engineering student at UFMS.
-Currently wrking with React and Nest.
+Currently working with React and Nest.
